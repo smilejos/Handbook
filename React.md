@@ -29,7 +29,7 @@
 # Example
 - [react-server-example](https://github.com/mhart/react-server-example)
 - [simplest-redux-example](https://github.com/jackielii/simplest-redux-example)
-- [example-react-router-server-rendering-lazy-routes](htps://github.com/ryanflorence/example-react-router-server-rendering-lazy-routes)
+- [example-react-router-server-rendering-lazy-routes](https://github.com/ryanflorence/example-react-router-server-rendering-lazy-routes)
 - [react-server-routing-example](https://github.com/mhart/react-server-routing-example)
 
 # Tutorial
