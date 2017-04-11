@@ -1,5 +1,5 @@
 # Component
-- [awesome-react-components](https://github.com/brillout/awesome-react-components) 
+- [awesome-react-components](https://github.com/brillout/awesome-react-components) - Awesome Component!!!
 
 # Map
 - [react-google-maps](https://github.com/tomchentw/react-google-maps)
@@ -10,10 +10,10 @@
 - [react-infinite-calendar](https://github.com/clauderic/react-infinite-calendar)
 
 # Grid & Table
-- [fixed-data-table](https://github.com/facebook/fixed-data-table)
 - [react-data-grid](https://github.com/adazzle/react-data-grid)
 - [react-bootstrap-table](https://github.com/AllenFang/react-bootstrap-table)
 - [react-table](https://github.com/tannerlinsley/react-table)
+- [fixed-data-table](https://github.com/facebook/fixed-data-table)
 
 # Drag & Drop
 - [react-dnd](https://github.com/react-dnd/react-dnd)
@@ -27,6 +27,7 @@
 - [react-d3-basic](https://github.com/react-d3/react-d3-basic)
 - [react-d3-components](https://github.com/codesuki/react-d3-components)
 - [react-chartjs](https://github.com/reactjs/react-chartjs)
+- [react-sparklines](https://github.com/borisyankov/react-sparklines) - 製作簡單動態波浪圖的元件。
 
 # Tooptip & Notification
 - [react-tooltip](https://github.com/wwayne/react-tooltip)
@@ -49,24 +50,28 @@
 - [react-color](https://github.com/casesandberg/react-color)
 - [color-picker](https://github.com/react-component/color-picker)
 
+# Tree
+- [react-ui-tree](https://github.com/pqx/react-ui-tree)
+- [react-sortable-tree](https://github.com/fritz-c/react-sortable-tree) - 非常強大的樹，支援動態排序。
+
+# Size
+- [react-sizes](https://github.com/renatorib/react-sizes) - 可以將 Size 當成 `decorator` 放在元件上，讓每一個元件可以簡單取用 `prop.size` 來做事情。
+- [react-resizable](https://github.com/STRML/react-resizable) - 一個 Resizable 的元件，可以綁定各種 Resize 起迄事件。
+
 # Miscellaneous
 - [react-motion](https://github.com/chenglou/react-motion)
 - [react-canvas](https://github.com/Flipboard/react-canvas)
 - [react-desktop](https://github.com/gabrielbull/react-desktop)
 - [react-keydown](https://github.com/glortho/react-keydown) - 非常好用的事件註冊元件，可以快速的新增鍵盤事件。
-- [recompose](https://github.com/acdlite/recompose)
 - [react-intl](https://github.com/yahoo/react-intl)
 - [react-grid-layout](https://github.com/STRML/react-grid-layout)
 - [react-lazyload](https://github.com/jasonslyvia/react-lazyload)
 - [react-router-scroll](https://github.com/taion/react-router-scroll)
 - [react-codemirror](https://github.com/JedWatson/react-codemirror)
 - [react-code-mirror](https://github.com/ForbesLindesay/react-code-mirror)
-- [redbox-react](https://github.com/commissure/redbox-react) - 一個可以像 React Native 顯示錯誤的元件
-- [react-ui-tree](https://github.com/pqx/react-ui-tree)
 - [react-toggle](https://github.com/aaronshaf/react-toggle)
 - [react-md-editor](https://github.com/JedWatson/react-md-editor)
 - [react-fine-uploader](https://github.com/FineUploader/react-fine-uploader) - 很好用的檔案上傳元件，支援拖拉上傳、進度及縮圖顯示。
-- [react-resizable](https://github.com/STRML/react-resizable)
 - [react-spark-scroll](https://github.com/gilbox/react-spark-scroll)
 - [react-fractals](https://github.com/Swizec/react-fractals) - 一個互動式的 SVG 元件。
 - [react-linkify](https://github.com/tasti/react-linkify) - 一個可以將元件內有超聯結的純文字自動改成超聯結。
@@ -75,3 +80,5 @@
 - [react-sticky-state](https://github.com/soenkekluth/react-sticky-state)
 - [react-google-login-component](https://github.com/kennetpostigo/react-google-login-component)
 - [react-lights-out](https://github.com/chenglou/react-lights-out)
+- [recompose](https://github.com/acdlite/recompose)
+- [redbox-react](https://github.com/commissure/redbox-react) - 一個可以像 React Native 顯示錯誤的元件
