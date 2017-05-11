@@ -1,7 +1,6 @@
 # Component
 - [react-native-elements](https://github.com/react-native-training/react-native-elements)
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons)
-- [NativeBase](https://github.com/GeekyAnts/NativeBase)
 - [react-native-maps](https://github.com/airbnb/react-native-maps)
 - [react-native-swiper](https://github.com/leecade/react-native-swiper)
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat)
@@ -37,3 +36,4 @@
 - [react-native-timeline-listview](https://github.com/thegamenicorus/react-native-timeline-listview)
 - [react-native-speech-bubble](https://github.com/charpeni/react-native-speech-bubble)
 - [yahoo-oauth2-react-native](https://github.com/pyliaorachel/yahoo-oauth2-react-native)
+- [NativeBase](https://github.com/GeekyAnts/NativeBase)

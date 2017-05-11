@@ -29,16 +29,18 @@
 - [react-chartjs](https://github.com/reactjs/react-chartjs)
 - [react-sparklines](https://github.com/borisyankov/react-sparklines) - 製作簡單動態波浪圖的元件。
 
-# Tooptip & Notification
-- [react-tooltip](https://github.com/wwayne/react-tooltip)
+# Notification
 - [react-notifications](https://github.com/minhtranite/react-notifications)
 - [react-notification-system](https://github.com/igorprado/react-notification-system)
+
+# Tooptip
+- [react-tooltip](https://github.com/wwayne/react-tooltip)
 - [tooltip](https://github.com/react-component/tooltip)
 
 # Select & Dropdownlist
 - [react-select](https://github.com/JedWatson/react-select) - 非常好用的下拉式選單，同時支援複選功能。
 
-#  Sidebar
+# Sidebar
 - [react-burger-menu](https://github.com/negomi/react-burger-menu) - 可以非常多樣式的側邊選單。
 - [react-sidebar](https://github.com/balloob/react-sidebar)
 
@@ -80,5 +82,6 @@
 - [react-sticky-state](https://github.com/soenkekluth/react-sticky-state)
 - [react-google-login-component](https://github.com/kennetpostigo/react-google-login-component)
 - [react-lights-out](https://github.com/chenglou/react-lights-out)
+- [searchkit](https://github.com/searchkit/searchkit) - 強大的搜尋元件，可以快速 Group 出目前 Result 的屬性。
 - [recompose](https://github.com/acdlite/recompose)
 - [redbox-react](https://github.com/commissure/redbox-react) - 一個可以像 React Native 顯示錯誤的元件
