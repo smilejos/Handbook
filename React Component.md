@@ -20,6 +20,7 @@
 - [react-draggable](https://github.com/mzabriskie/react-draggable)
 - [react-dropzone](https://github.com/okonet/react-dropzone)
 - [Sortable](https://github.com/RubaXa/Sortable)
+- [react-sortable-hoc](https://github.com/clauderic/react-sortable-hoc) - 各式各樣的排序
 
 # Chart
 - [react-d3](https://github.com/esbullington/react-d3)
@@ -43,6 +44,10 @@
 # Sidebar
 - [react-burger-menu](https://github.com/negomi/react-burger-menu) - 可以非常多樣式的側邊選單。
 - [react-sidebar](https://github.com/balloob/react-sidebar)
+
+# Sticky
+- [react-sticky](https://github.com/captivationsoftware/react-sticky) - 固定表頭的神兵利器
+
 
 # Navigation
 - [react-navigation](https://github.com/react-community/react-navigation)
@@ -82,6 +87,9 @@
 - [react-sticky-state](https://github.com/soenkekluth/react-sticky-state)
 - [react-google-login-component](https://github.com/kennetpostigo/react-google-login-component)
 - [react-lights-out](https://github.com/chenglou/react-lights-out)
+- [react-contextmenu](https://github.com/vkbansal/react-contextmenu) - 客製化網頁滑鼠右鍵選單
+- [react-pdf](https://github.com/diegomura/react-pdf) 
 - [searchkit](https://github.com/searchkit/searchkit) - 強大的搜尋元件，可以快速 Group 出目前 Result 的屬性。
 - [recompose](https://github.com/acdlite/recompose)
 - [redbox-react](https://github.com/commissure/redbox-react) - 一個可以像 React Native 顯示錯誤的元件
+- [swipeout](https://github.com/react-component/swipeout) - 手指可以向左或向右滑，有不同的選項可以使用
